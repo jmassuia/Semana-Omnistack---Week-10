@@ -1,4 +1,4 @@
-# Semana-Omnistack---Week-10
+# 🚀 :rocket:	Semana-Omnistack---Week-10
 Amazing experience using node js, react js and react native for mobile and web development. 
 
 <h3>Frameworks and Dependencies used in this project:</h3>
