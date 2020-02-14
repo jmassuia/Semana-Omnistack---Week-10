@@ -1,7 +1,7 @@
-# 🚀 :rocket:	Semana-Omnistack---Week-10
+# :rocket:	Semana-Omnistack---Week-10
 Amazing experience using node js, react js and react native for mobile and web development. 
 
-<h3>Frameworks and Dependencies used in this project:</h3>
+<h3 style:color:"blue">Frameworks and Dependencies used in this project:</h3>
 
 * "node_modules" are used in the whole project, it´s automatically installed with yarn commands.<br>
   <b>Learn more: https://yarnpkg.com/en/docs</b>
