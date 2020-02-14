@@ -1,8 +1,8 @@
-# :rocket:	Semana-Omnistack Week 10 
+# :rocket:	Semana-Omnistack Week 10 :rocket:
 Amazing experience using node js, react js and react native for mobile and web development. 
-<h2>Description:</h2>
+<h2>Description</h2>
 <p> On this amazing week we have a real development experience with the most folk stack in the market. Using node.js to build the backend, react.js in web + insomnia to HTTP methods and react-native to develop a beautiful mobile application. Furthermore, we used expo: https://expo.io/, which is a open-source development web platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
-<h2>Frameworks and Dependencies used in this project:</h2>
+<h2>Frameworks and Dependencies used in this project</h2>
   <ul>
     <li>
       <h3>node_modules</h3>
